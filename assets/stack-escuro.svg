@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 402" width="1200" height="402" role="img" aria-label="Ferramentas e conhecimentos">
+<title>Ferramentas e conhecimentos</title>
+<style>
+.s{font-family:'Segoe UI','Inter',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif} .m{font-family:'Cascadia Code','JetBrains Mono',ui-monospace,'SF Mono',Consolas,'Liberation Mono',monospace}
+@keyframes entra{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+.entra{animation:entra .8s cubic-bezier(.2,.7,.2,1) both}
+@keyframes fluxo{to{stroke-dashoffset:-64}}
+.fluxo{stroke-dasharray:6 10;animation:fluxo 2.2s linear infinite}
+@keyframes pisca{50%{opacity:0}}
+.pisca{animation:pisca 1.05s steps(1) infinite}
+@keyframes flutua{50%{transform:translateY(-7px)}}
+.flutua{animation:flutua 4.5s ease-in-out infinite}
+@keyframes pulsa{0%{opacity:.6;transform:scale(1)}100%{opacity:0;transform:scale(2.6)}}
+.pulsa{transform-box:fill-box;transform-origin:center;animation:pulsa 2.2s ease-out infinite}
+@keyframes onda{0%{opacity:.7;transform:scale(1)}100%{opacity:0;transform:scale(1.55)}}
+.onda{transform-box:fill-box;transform-origin:center;animation:onda 2.8s ease-out infinite}
+@keyframes respira{50%{opacity:.45}}
+.respira{animation:respira 2.4s ease-in-out infinite}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+<pattern id="grade" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#15213a" stroke-width="1"/></pattern>
+<linearGradient id="gAzulVerde" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#6b8cff"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient>
+<radialGradient id="gBrilho" cx="0.82" cy="0.35" r="0.6"><stop offset="0" stop-color="#6b8cff" stop-opacity="0.20"/><stop offset="1" stop-color="#6b8cff" stop-opacity="0"/></radialGradient>
+<clipPath id="cartao"><rect width="1200" height="402" rx="20"/></clipPath>
+
+</defs>
+<g clip-path="url(#cartao)">
+<rect width="1200" height="402" fill="#0b1220"/>
+<rect width="1200" height="402" fill="url(#grade)" opacity=".55"/>
+<rect width="1200" height="402" fill="url(#gBrilho)"/>
+<g class="entra" style="animation-delay:0.00s"><rect x="40" y="38" width="12" height="12" rx="3" fill="#f5a524"/><text x="62" y="50" class="s" font-size="18" font-weight="700" fill="#e7edf8">Supply &amp; Operações</text></g>
+<g class="entra" style="animation-delay:0.15s"><rect x="40" y="70" width="266" height="36" rx="9" fill="#111c33" stroke="#22314f"/><rect x="40" y="79" width="3" height="18" rx="1.5" fill="#f5a524"/><text x="56" y="93" class="s" font-size="15" fill="#e7edf8">SAP S/4HANA · MM · MRP</text></g>
+<g class="entra" style="animation-delay:0.22s"><rect x="40" y="116" width="266" height="36" rx="9" fill="#111c33" stroke="#22314f"/><rect x="40" y="125" width="3" height="18" rx="1.5" fill="#f5a524"/><text x="56" y="139" class="s" font-size="15" fill="#e7edf8">Gestão de estoques</text></g>
+<g class="entra" style="animation-delay:0.29s"><rect x="40" y="162" width="266" height="36" rx="9" fill="#111c33" stroke="#22314f"/><rect x="40" y="171" width="3" height="18" rx="1.5" fill="#f5a524"/><text x="56" y="185" class="s" font-size="15" fill="#e7edf8">ABC/XYZ · ROP · safety stock</text></g>
+<g class="entra" style="animation-delay:0.36s"><rect x="40" y="208" width="266" height="36" rx="9" fill="#111c33" stroke="#22314f"/><rect x="40" y="217" width="3" height="18" rx="1.5" fill="#f5a524"/><text x="56" y="231" class="s" font-size="15" fill="#e7edf8">Consignação OPME</text></g>
+<g class="entra" style="animation-delay:0.43s"><rect x="40" y="254" width="266" height="36" rx="9" fill="#111c33" stroke="#22314f"/><rect x="40" y="263" width="3" height="18" rx="1.5" fill="#f5a524"/><text x="56" y="277" class="s" font-size="15" fill="#e7edf8">S&amp;OP · SCOR · redes logísticas</text></g>
+<g class="entra" style="animation-delay:0.50s"><rect x="40" y="300" width="266" height="36" rx="9" fill="#111c33" stroke="#22314f"/><rect x="40" y="309" width="3" height="18" rx="1.5" fill="#f5a524"/><text x="56" y="323" class="s" font-size="15" fill="#e7edf8">Lean Six Sigma · Yellow Belt</text></g>
+<g class="entra" style="animation-delay:0.10s"><rect x="324" y="38" width="12" height="12" rx="3" fill="#6b8cff"/><text x="346" y="50" class="s" font-size="18" font-weight="700" fill="#e7edf8">Dados &amp; BI</text></g>
+<g class="entra" style="animation-delay:0.25s"><rect x="324" y="70" width="266" height="36" rx="9" fill="#111c33" stroke="#22314f"/><rect x="324" y="79" width="3" height="18" rx="1.5" fill="#6b8cff"/><text x="340" y="93" class="s" font-size="15" fill="#e7edf8">Power BI · DAX</text></g>
+<g class="entra" style="animation-delay:0.32s"><rect x="324" y="116" width="266" height="36" rx="9" fill="#111c33" stroke="#22314f"/><rect x="324" y="125" width="3" height="18" rx="1.5" fill="#6b8cff"/><text x="340" y="139" class="s" font-size="15" fill="#e7edf8">Power Query</text></g>
+<g class="entra" style="animation-delay:0.39s"><rect x="324" y="162" width="266" height="36" rx="9" fill="#111c33" stroke="#22314f"/><rect x="324" y="171" width="3" height="18" rx="1.5" fill="#6b8cff"/><text x="340" y="185" class="s" font-size="15" fill="#e7edf8">SQL · PostgreSQL · SQL Server</text></g>
+<g class="entra" style="animation-delay:0.46s"><rect x="324" y="208" width="266" height="36" rx="9" fill="#111c33" stroke="#22314f"/><rect x="324" y="217" width="3" height="18" rx="1.5" fill="#6b8cff"/><text x="340" y="231" class="s" font-size="15" fill="#e7edf8">Excel · VBA</text></g>
+<g class="entra" style="animation-delay:0.53s"><rect x="324" y="254" width="266" height="36" rx="9" fill="#111c33" stroke="#22314f"/><rect x="324" y="263" width="3" height="18" rx="1.5" fill="#6b8cff"/><text x="340" y="277" class="s" font-size="15" fill="#e7edf8">Data Warehouse · OLAP</text></g>
+<g class="entra" style="animation-delay:0.60s"><rect x="324" y="300" width="266" height="36" rx="9" fill="#111c33" stroke="#22314f"/><rect x="324" y="309" width="3" height="18" rx="1.5" fill="#6b8cff"/><text x="340" y="323" class="s" font-size="15" fill="#e7edf8">Estatística · forecast</text></g>
+<g class="entra" style="animation-delay:0.20s"><rect x="608" y="38" width="12" height="12" rx="3" fill="#2dd4bf"/><text x="630" y="50" class="s" font-size="18" font-weight="700" fill="#e7edf8">Engenharia de dados</text></g>
+<g class="entra" style="animation-delay:0.35s"><rect x="608" y="70" width="266" height="36" rx="9" fill="#111c33" stroke="#22314f"/><rect x="608" y="79" width="3" height="18" rx="1.5" fill="#2dd4bf"/><text x="624" y="93" class="s" font-size="15" fill="#e7edf8">Python · pandas</text></g>
+<g class="entra" style="animation-delay:0.42s"><rect x="608" y="116" width="266" height="36" rx="9" fill="#111c33" stroke="#22314f"/><rect x="608" y="125" width="3" height="18" rx="1.5" fill="#2dd4bf"/><text x="624" y="139" class="s" font-size="15" fill="#e7edf8">Apache Airflow</text></g>
+<g class="entra" style="animation-delay:0.49s"><rect x="608" y="162" width="266" height="36" rx="9" fill="#111c33" stroke="#22314f"/><rect x="608" y="171" width="3" height="18" rx="1.5" fill="#2dd4bf"/><text x="624" y="185" class="s" font-size="15" fill="#e7edf8">Databricks · Spark</text></g>
+<g class="entra" style="animation-delay:0.56s"><rect x="608" y="208" width="266" height="36" rx="9" fill="#111c33" stroke="#22314f"/><rect x="608" y="217" width="3" height="18" rx="1.5" fill="#2dd4bf"/><text x="624" y="231" class="s" font-size="15" fill="#e7edf8">ETL · Pentaho · SSIS</text></g>
+<g class="entra" style="animation-delay:0.63s"><rect x="608" y="254" width="266" height="36" rx="9" fill="#111c33" stroke="#22314f"/><rect x="608" y="263" width="3" height="18" rx="1.5" fill="#2dd4bf"/><text x="624" y="277" class="s" font-size="15" fill="#e7edf8">Git · GitHub Actions</text></g>
+<g class="entra" style="animation-delay:0.70s"><rect x="608" y="300" width="266" height="36" rx="9" fill="#111c33" stroke="#22314f"/><rect x="608" y="309" width="3" height="18" rx="1.5" fill="#2dd4bf"/><text x="624" y="323" class="s" font-size="15" fill="#e7edf8">Linux</text></g>
+<g class="entra" style="animation-delay:0.30s"><rect x="892" y="38" width="12" height="12" rx="3" fill="#b197fc"/><text x="914" y="50" class="s" font-size="18" font-weight="700" fill="#e7edf8">Produto · Supply OPME</text></g>
+<g class="entra" style="animation-delay:0.45s"><rect x="892" y="70" width="266" height="36" rx="9" fill="#111c33" stroke="#22314f"/><rect x="892" y="79" width="3" height="18" rx="1.5" fill="#b197fc"/><text x="908" y="93" class="s" font-size="15" fill="#e7edf8">Supabase · Postgres · RLS</text></g>
+<g class="entra" style="animation-delay:0.52s"><rect x="892" y="116" width="266" height="36" rx="9" fill="#111c33" stroke="#22314f"/><rect x="892" y="125" width="3" height="18" rx="1.5" fill="#b197fc"/><text x="908" y="139" class="s" font-size="15" fill="#e7edf8">JavaScript · three.js</text></g>
+<g class="entra" style="animation-delay:0.59s"><rect x="892" y="162" width="266" height="36" rx="9" fill="#111c33" stroke="#22314f"/><rect x="892" y="171" width="3" height="18" rx="1.5" fill="#b197fc"/><text x="908" y="185" class="s" font-size="15" fill="#e7edf8">Claude API</text></g>
+<g class="entra" style="animation-delay:0.66s"><rect x="892" y="208" width="266" height="36" rx="9" fill="#111c33" stroke="#22314f"/><rect x="892" y="217" width="3" height="18" rx="1.5" fill="#b197fc"/><text x="908" y="231" class="s" font-size="15" fill="#e7edf8">AWS S3 · Object Lock</text></g>
+<g class="entra" style="animation-delay:0.73s"><rect x="892" y="254" width="266" height="36" rx="9" fill="#111c33" stroke="#22314f"/><rect x="892" y="263" width="3" height="18" rx="1.5" fill="#b197fc"/><text x="908" y="277" class="s" font-size="15" fill="#e7edf8">Cloudflare Pages</text></g>
+<g class="entra" style="animation-delay:0.80s"><rect x="892" y="300" width="266" height="36" rx="9" fill="#111c33" stroke="#22314f"/><rect x="892" y="309" width="3" height="18" rx="1.5" fill="#b197fc"/><text x="908" y="323" class="s" font-size="15" fill="#e7edf8">Testes automatizados</text></g>
+</g>
+<rect x=".5" y=".5" width="1199" height="401" rx="20" fill="none" stroke="#22314f"/>
+</svg>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 560" width="1200" height="560" role="img" aria-label="167 cursos e 999 horas de certificados">
+<title>167 cursos e 999 horas de certificados</title>
+<style>
+.s{font-family:'Segoe UI','Inter',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif} .m{font-family:'Cascadia Code','JetBrains Mono',ui-monospace,'SF Mono',Consolas,'Liberation Mono',monospace}
+@keyframes entra{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+.entra{animation:entra .8s cubic-bezier(.2,.7,.2,1) both}
+@keyframes fluxo{to{stroke-dashoffset:-64}}
+.fluxo{stroke-dasharray:6 10;animation:fluxo 2.2s linear infinite}
+@keyframes pisca{50%{opacity:0}}
+.pisca{animation:pisca 1.05s steps(1) infinite}
+@keyframes flutua{50%{transform:translateY(-7px)}}
+.flutua{animation:flutua 4.5s ease-in-out infinite}
+@keyframes pulsa{0%{opacity:.6;transform:scale(1)}100%{opacity:0;transform:scale(2.6)}}
+.pulsa{transform-box:fill-box;transform-origin:center;animation:pulsa 2.2s ease-out infinite}
+@keyframes onda{0%{opacity:.7;transform:scale(1)}100%{opacity:0;transform:scale(1.55)}}
+.onda{transform-box:fill-box;transform-origin:center;animation:onda 2.8s ease-out infinite}
+@keyframes respira{50%{opacity:.45}}
+.respira{animation:respira 2.4s ease-in-out infinite}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+<pattern id="grade" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#e7ecf6" stroke-width="1"/></pattern>
+<linearGradient id="gAzulVerde" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#2f4fd0"/><stop offset="1" stop-color="#0f9488"/></linearGradient>
+<radialGradient id="gBrilho" cx="0.82" cy="0.35" r="0.6"><stop offset="0" stop-color="#2f4fd0" stop-opacity="0.10"/><stop offset="1" stop-color="#2f4fd0" stop-opacity="0"/></radialGradient>
+<clipPath id="cartao"><rect width="1200" height="560" rx="20"/></clipPath>
+
+</defs>
+<g clip-path="url(#cartao)">
+<rect width="1200" height="560" fill="#f7f9fd"/>
+<rect width="1200" height="560" fill="url(#grade)" opacity=".55"/>
+<rect width="1200" height="560" fill="url(#gBrilho)"/>
+<text x="40" y="54" class="m" font-size="14" fill="#0f9488" letter-spacing="1.5">CERTIFICADOS · ATUALIZADO EM 30/10/2026</text>
+<g class="entra" style="animation-delay:0.00s"><rect x="40" y="78" width="182" height="114" rx="14" fill="#ffffff" stroke="#d8e0ee"/><text x="58" y="134" class="s" font-size="42" font-weight="800" fill="#0f172a">167</text><text x="58" y="164" class="s" font-size="15" fill="#475569">cursos concluídos</text></g>
+<g class="entra" style="animation-delay:0.08s"><rect x="236" y="78" width="182" height="114" rx="14" fill="#ffffff" stroke="#d8e0ee"/><text x="254" y="134" class="s" font-size="42" font-weight="800" fill="#0f172a">999</text><text x="254" y="164" class="s" font-size="15" fill="#475569">horas registradas</text></g>
+<g class="entra" style="animation-delay:0.16s"><rect x="40" y="206" width="182" height="114" rx="14" fill="#ffffff" stroke="#d8e0ee"/><text x="58" y="262" class="s" font-size="42" font-weight="800" fill="#0f172a">18</text><text x="58" y="292" class="s" font-size="15" fill="#475569">formações e trilhas</text></g>
+<g class="entra" style="animation-delay:0.24s"><rect x="236" y="206" width="182" height="114" rx="14" fill="#ffffff" stroke="#d8e0ee"/><text x="254" y="262" class="s" font-size="42" font-weight="800" fill="#0f172a">5</text><text x="254" y="292" class="s" font-size="15" fill="#475569">instituições</text></g>
+<text x="40" y="350" class="s" font-size="14" fill="#94a3b8">Alura · DIO · EY · FM2S · Udemy</text>
+<text x="470" y="54" class="m" font-size="14" fill="#94a3b8" letter-spacing="1.5">CURSOS POR ÁREA</text>
+<text x="470" y="103" class="s" font-size="16" fill="#0f172a">Engenharia de dados</text><rect x="712" y="90" width="286" height="16" rx="8" fill="#e7ecf6"/><rect x="712" y="90" width="286.0" height="16" rx="8" fill="url(#gAzulVerde)"><animate attributeName="width" from="0" to="286.0" begin="0.25s" dur="1.2s" fill="freeze" calcMode="spline" keySplines=".2 .7 .2 1" keyTimes="0;1"/></rect><text x="1160" y="103" text-anchor="end" class="m" font-size="14" fill="#475569">25 cursos · 221 h</text>
+<text x="470" y="143" class="s" font-size="16" fill="#0f172a">BI &amp; visualização</text><rect x="712" y="130" width="286" height="16" rx="8" fill="#e7ecf6"/><rect x="712" y="130" width="286.0" height="16" rx="8" fill="url(#gAzulVerde)"><animate attributeName="width" from="0" to="286.0" begin="0.34s" dur="1.2s" fill="freeze" calcMode="spline" keySplines=".2 .7 .2 1" keyTimes="0;1"/></rect><text x="1160" y="143" text-anchor="end" class="m" font-size="14" fill="#475569">25 cursos · 185 h</text>
+<text x="470" y="183" class="s" font-size="16" fill="#0f172a">Python &amp; data science</text><rect x="712" y="170" width="286" height="16" rx="8" fill="#e7ecf6"/><rect x="712" y="170" width="263.1" height="16" rx="8" fill="url(#gAzulVerde)"><animate attributeName="width" from="0" to="263.1" begin="0.43s" dur="1.2s" fill="freeze" calcMode="spline" keySplines=".2 .7 .2 1" keyTimes="0;1"/></rect><text x="1160" y="183" text-anchor="end" class="m" font-size="14" fill="#475569">23 cursos · 126 h</text>
+<text x="470" y="223" class="s" font-size="16" fill="#0f172a">Excel &amp; VBA</text><rect x="712" y="210" width="286" height="16" rx="8" fill="#e7ecf6"/><rect x="712" y="210" width="205.9" height="16" rx="8" fill="url(#gAzulVerde)"><animate attributeName="width" from="0" to="205.9" begin="0.52s" dur="1.2s" fill="freeze" calcMode="spline" keySplines=".2 .7 .2 1" keyTimes="0;1"/></rect><text x="1160" y="223" text-anchor="end" class="m" font-size="14" fill="#475569">18 cursos · 110 h</text>
+<text x="470" y="263" class="s" font-size="16" fill="#0f172a">Supply chain &amp; operações</text><rect x="712" y="250" width="286" height="16" rx="8" fill="#e7ecf6"/><rect x="712" y="250" width="194.5" height="16" rx="8" fill="url(#gAzulVerde)"><animate attributeName="width" from="0" to="194.5" begin="0.61s" dur="1.2s" fill="freeze" calcMode="spline" keySplines=".2 .7 .2 1" keyTimes="0;1"/></rect><text x="1160" y="263" text-anchor="end" class="m" font-size="14" fill="#475569">17 cursos · 28 h</text>
+<text x="470" y="303" class="s" font-size="16" fill="#0f172a">Estatística &amp; forecast</text><rect x="712" y="290" width="286" height="16" rx="8" fill="#e7ecf6"/><rect x="712" y="290" width="183.0" height="16" rx="8" fill="url(#gAzulVerde)"><animate attributeName="width" from="0" to="183.0" begin="0.70s" dur="1.2s" fill="freeze" calcMode="spline" keySplines=".2 .7 .2 1" keyTimes="0;1"/></rect><text x="1160" y="303" text-anchor="end" class="m" font-size="14" fill="#475569">16 cursos · 147 h</text>
+<text x="470" y="343" class="s" font-size="16" fill="#0f172a">Bancos de dados &amp; SQL</text><rect x="712" y="330" width="286" height="16" rx="8" fill="#e7ecf6"/><rect x="712" y="330" width="148.7" height="16" rx="8" fill="url(#gAzulVerde)"><animate attributeName="width" from="0" to="148.7" begin="0.79s" dur="1.2s" fill="freeze" calcMode="spline" keySplines=".2 .7 .2 1" keyTimes="0;1"/></rect><text x="1160" y="343" text-anchor="end" class="m" font-size="14" fill="#475569">13 cursos · 135 h</text>
+<text x="470" y="383" class="s" font-size="16" fill="#0f172a">Gestão &amp; agilidade</text><rect x="712" y="370" width="286" height="16" rx="8" fill="#e7ecf6"/><rect x="712" y="370" width="148.7" height="16" rx="8" fill="url(#gAzulVerde)"><animate attributeName="width" from="0" to="148.7" begin="0.88s" dur="1.2s" fill="freeze" calcMode="spline" keySplines=".2 .7 .2 1" keyTimes="0;1"/></rect><text x="1160" y="383" text-anchor="end" class="m" font-size="14" fill="#475569">13 cursos · 34 h</text>
+<text x="470" y="423" class="s" font-size="16" fill="#0f172a">IA aplicada</text><rect x="712" y="410" width="286" height="16" rx="8" fill="#e7ecf6"/><rect x="712" y="410" width="91.5" height="16" rx="8" fill="url(#gAzulVerde)"><animate attributeName="width" from="0" to="91.5" begin="0.97s" dur="1.2s" fill="freeze" calcMode="spline" keySplines=".2 .7 .2 1" keyTimes="0;1"/></rect><text x="1160" y="423" text-anchor="end" class="m" font-size="14" fill="#475569">8 cursos · 7 h</text>
+<text x="470" y="463" class="s" font-size="16" fill="#0f172a">Programação &amp; Git</text><rect x="712" y="450" width="286" height="16" rx="8" fill="#e7ecf6"/><rect x="712" y="450" width="57.2" height="16" rx="8" fill="url(#gAzulVerde)"><animate attributeName="width" from="0" to="57.2" begin="1.06s" dur="1.2s" fill="freeze" calcMode="spline" keySplines=".2 .7 .2 1" keyTimes="0;1"/></rect><text x="1160" y="463" text-anchor="end" class="m" font-size="14" fill="#475569">5 cursos · 6 h</text>
+<text x="470" y="503" class="s" font-size="16" fill="#0f172a">Qualidade &amp; Lean</text><rect x="712" y="490" width="286" height="16" rx="8" fill="#e7ecf6"/><rect x="712" y="490" width="45.8" height="16" rx="8" fill="url(#gAzulVerde)"><animate attributeName="width" from="0" to="45.8" begin="1.15s" dur="1.2s" fill="freeze" calcMode="spline" keySplines=".2 .7 .2 1" keyTimes="0;1"/></rect><text x="1160" y="503" text-anchor="end" class="m" font-size="14" fill="#475569">4 cursos</text>
+</g>
+<rect x=".5" y=".5" width="1199" height="559" rx="20" fill="none" stroke="#d8e0ee"/>
+</svg>

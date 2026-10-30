@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 356" width="1200" height="356" role="img" aria-label="Roadmap do Supply OPME até o lançamento">
+<title>Roadmap do Supply OPME até o lançamento</title>
+<style>
+.s{font-family:'Segoe UI','Inter',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif} .m{font-family:'Cascadia Code','JetBrains Mono',ui-monospace,'SF Mono',Consolas,'Liberation Mono',monospace}
+@keyframes entra{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+.entra{animation:entra .8s cubic-bezier(.2,.7,.2,1) both}
+@keyframes fluxo{to{stroke-dashoffset:-64}}
+.fluxo{stroke-dasharray:6 10;animation:fluxo 2.2s linear infinite}
+@keyframes pisca{50%{opacity:0}}
+.pisca{animation:pisca 1.05s steps(1) infinite}
+@keyframes flutua{50%{transform:translateY(-7px)}}
+.flutua{animation:flutua 4.5s ease-in-out infinite}
+@keyframes pulsa{0%{opacity:.6;transform:scale(1)}100%{opacity:0;transform:scale(2.6)}}
+.pulsa{transform-box:fill-box;transform-origin:center;animation:pulsa 2.2s ease-out infinite}
+@keyframes onda{0%{opacity:.7;transform:scale(1)}100%{opacity:0;transform:scale(1.55)}}
+.onda{transform-box:fill-box;transform-origin:center;animation:onda 2.8s ease-out infinite}
+@keyframes respira{50%{opacity:.45}}
+.respira{animation:respira 2.4s ease-in-out infinite}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+<pattern id="grade" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#15213a" stroke-width="1"/></pattern>
+<linearGradient id="gAzulVerde" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#6b8cff"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient>
+<radialGradient id="gBrilho" cx="0.82" cy="0.35" r="0.6"><stop offset="0" stop-color="#6b8cff" stop-opacity="0.20"/><stop offset="1" stop-color="#6b8cff" stop-opacity="0"/></radialGradient>
+<clipPath id="cartao"><rect width="1200" height="356" rx="20"/></clipPath>
+
+</defs>
+<g clip-path="url(#cartao)">
+<rect width="1200" height="356" fill="#0b1220"/>
+<rect width="1200" height="356" fill="url(#grade)" opacity=".55"/>
+<rect width="1200" height="356" fill="url(#gBrilho)"/>
+<text x="48" y="58" class="m" font-size="14" fill="#2dd4bf" letter-spacing="1.5">ROADMAP · SUPPLY OPME</text>
+<text x="46" y="98" class="s" font-size="32" font-weight="800" fill="#e7edf8">Do protótipo ao lançamento</text>
+<text x="48" y="128" class="s" font-size="17" fill="#93a3c0">Agora: Protótipo — sistema rodando com dados fictícios e conversas com o mercado</text>
+<text x="1152" y="92" text-anchor="end" class="s" font-size="56" font-weight="800" fill="#6b8cff">428</text><text x="1152" y="122" text-anchor="end" class="s" font-size="16" fill="#93a3c0">dias para o lançamento · 01/01/2028</text>
+<rect x="60" y="214" width="1080" height="10" rx="5" fill="#15213a"/>
+<rect x="60" y="214" width="64.3" height="10" rx="5" fill="url(#gAzulVerde)"><animate attributeName="width" from="0" to="64.3" dur="1.6s" fill="freeze" calcMode="spline" keySplines=".2 .7 .2 1" keyTimes="0;1"/></rect>
+<g class="entra" style="animation-delay:0.10s"><line x1="160.9" x2="160.9" y1="176" y2="210" stroke="#22314f" stroke-dasharray="2 3"/><text x="160.9" y="168" text-anchor="middle" class="s" font-size="15" font-weight="800" fill="#6b8cff">Protótipo</text></g>
+<rect x="263.0" y="210" width="2" height="18" rx="1" fill="#22314f"/>
+<g class="entra" style="animation-delay:0.15s"><line x1="297.3" x2="297.3" y1="228" y2="248" stroke="#22314f" stroke-dasharray="2 3"/><text x="297.3" y="264" text-anchor="middle" class="s" font-size="15" font-weight="500" fill="#5d6d8c">Descoberta</text></g>
+<rect x="331.8" y="210" width="2" height="18" rx="1" fill="#22314f"/>
+<g class="entra" style="animation-delay:0.20s"><line x1="362.7" x2="362.7" y1="176" y2="210" stroke="#22314f" stroke-dasharray="2 3"/><text x="362.7" y="168" text-anchor="middle" class="s" font-size="15" font-weight="500" fill="#5d6d8c">Validação</text></g>
+<rect x="393.9" y="210" width="2" height="18" rx="1" fill="#22314f"/>
+<g class="entra" style="animation-delay:0.25s"><line x1="428.1" x2="428.1" y1="228" y2="248" stroke="#22314f" stroke-dasharray="2 3"/><text x="428.1" y="264" text-anchor="middle" class="s" font-size="15" font-weight="500" fill="#5d6d8c">Modelagem</text></g>
+<rect x="462.6" y="210" width="2" height="18" rx="1" fill="#22314f"/>
+<g class="entra" style="animation-delay:0.30s"><line x1="495.8" x2="495.8" y1="176" y2="210" stroke="#22314f" stroke-dasharray="2 3"/><text x="495.8" y="168" text-anchor="middle" class="s" font-size="15" font-weight="500" fill="#5d6d8c">Motor analítico</text></g>
+<rect x="529.1" y="210" width="2" height="18" rx="1" fill="#22314f"/>
+<g class="entra" style="animation-delay:0.35s"><line x1="563.4" x2="563.4" y1="228" y2="248" stroke="#22314f" stroke-dasharray="2 3"/><text x="563.4" y="264" text-anchor="middle" class="s" font-size="15" font-weight="500" fill="#5d6d8c">Produto</text></g>
+<rect x="597.9" y="210" width="2" height="18" rx="1" fill="#22314f"/>
+<g class="entra" style="animation-delay:0.40s"><line x1="631.0" x2="631.0" y1="176" y2="210" stroke="#22314f" stroke-dasharray="2 3"/><text x="631.0" y="168" text-anchor="middle" class="s" font-size="15" font-weight="500" fill="#5d6d8c">Pré-piloto</text></g>
+<rect x="664.4" y="210" width="2" height="18" rx="1" fill="#22314f"/>
+<g class="entra" style="animation-delay:0.45s"><line x1="698.7" x2="698.7" y1="228" y2="248" stroke="#22314f" stroke-dasharray="2 3"/><text x="698.7" y="264" text-anchor="middle" class="s" font-size="15" font-weight="500" fill="#5d6d8c">Piloto 1</text></g>
+<rect x="733.2" y="210" width="2" height="18" rx="1" fill="#22314f"/>
+<g class="entra" style="animation-delay:0.50s"><line x1="767.4" x2="767.4" y1="176" y2="210" stroke="#22314f" stroke-dasharray="2 3"/><text x="767.4" y="168" text-anchor="middle" class="s" font-size="15" font-weight="500" fill="#5d6d8c">Piloto 2</text></g>
+<rect x="801.9" y="210" width="2" height="18" rx="1" fill="#22314f"/>
+<g class="entra" style="animation-delay:0.55s"><line x1="835.1" x2="835.1" y1="228" y2="248" stroke="#22314f" stroke-dasharray="2 3"/><text x="835.1" y="264" text-anchor="middle" class="s" font-size="15" font-weight="500" fill="#5d6d8c">Piloto 3</text></g>
+<rect x="868.4" y="210" width="2" height="18" rx="1" fill="#22314f"/>
+<g class="entra" style="animation-delay:0.60s"><line x1="902.7" x2="902.7" y1="176" y2="210" stroke="#22314f" stroke-dasharray="2 3"/><text x="902.7" y="168" text-anchor="middle" class="s" font-size="15" font-weight="500" fill="#5d6d8c">Comercial</text></g>
+<rect x="937.2" y="210" width="2" height="18" rx="1" fill="#22314f"/>
+<g class="entra" style="animation-delay:0.65s"><line x1="970.3" x2="970.3" y1="228" y2="248" stroke="#22314f" stroke-dasharray="2 3"/><text x="970.3" y="264" text-anchor="middle" class="s" font-size="15" font-weight="500" fill="#5d6d8c">Go-to-market</text></g>
+<rect x="1003.7" y="210" width="2" height="18" rx="1" fill="#22314f"/>
+<g class="entra" style="animation-delay:0.70s"><line x1="1038.0" x2="1038.0" y1="176" y2="210" stroke="#22314f" stroke-dasharray="2 3"/><text x="1038.0" y="168" text-anchor="middle" class="s" font-size="15" font-weight="500" fill="#5d6d8c">Preparação</text></g>
+<rect x="1072.5" y="210" width="2" height="18" rx="1" fill="#22314f"/>
+<g class="entra" style="animation-delay:0.75s"><line x1="1106.7" x2="1106.7" y1="228" y2="248" stroke="#22314f" stroke-dasharray="2 3"/><text x="1106.7" y="264" text-anchor="middle" class="s" font-size="15" font-weight="500" fill="#5d6d8c">Lançamento</text></g>
+<g><line x1="1073.5" x2="1073.5" y1="192" y2="224" stroke="#f5a524" stroke-width="2"/><path d="M1073.5,192 l16,5 -16,5z" fill="#f5a524"/></g>
+<text x="64.0" y="306" class="m" font-size="12" fill="#5d6d8c">out 26</text>
+<text x="132.7" y="306" class="m" font-size="12" fill="#5d6d8c">nov</text>
+<text x="199.3" y="306" class="m" font-size="12" fill="#5d6d8c">dez</text>
+<text x="268.0" y="306" class="m" font-size="12" fill="#5d6d8c">jan 27</text>
+<text x="336.8" y="306" class="m" font-size="12" fill="#5d6d8c">fev</text>
+<text x="398.9" y="306" class="m" font-size="12" fill="#5d6d8c">mar</text>
+<text x="467.6" y="306" class="m" font-size="12" fill="#5d6d8c">abr</text>
+<text x="534.1" y="306" class="m" font-size="12" fill="#5d6d8c">mai</text>
+<text x="602.9" y="306" class="m" font-size="12" fill="#5d6d8c">jun</text>
+<text x="669.4" y="306" class="m" font-size="12" fill="#5d6d8c">jul</text>
+<text x="738.2" y="306" class="m" font-size="12" fill="#5d6d8c">ago</text>
+<text x="806.9" y="306" class="m" font-size="12" fill="#5d6d8c">set</text>
+<text x="873.4" y="306" class="m" font-size="12" fill="#5d6d8c">out</text>
+<text x="942.2" y="306" class="m" font-size="12" fill="#5d6d8c">nov</text>
+<text x="1008.7" y="306" class="m" font-size="12" fill="#5d6d8c">dez</text>
+<text x="1077.5" y="306" class="m" font-size="12" fill="#5d6d8c">jan 28</text>
+<circle class="pulsa" cx="124.3" cy="219" r="9" fill="#2dd4bf"/><circle cx="124.3" cy="219" r="9" fill="#2dd4bf" stroke="#0b1220" stroke-width="3"/><text x="124.3" y="194" text-anchor="middle" class="m" font-size="12" font-weight="700" fill="#2dd4bf">hoje · 30/10</text>
+</g>
+<rect x=".5" y=".5" width="1199" height="355" rx="20" fill="none" stroke="#22314f"/>
+</svg>

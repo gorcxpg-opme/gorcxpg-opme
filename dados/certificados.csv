@@ -1,0 +1,185 @@
+instituicao,formacao,curso,area,horas,conclusao,link,exibir
+Alura,BI e Data Warehouse com Pentaho,Modelos de ETL: Pentaho Data Integration,Engenharia de dados,14,26/06/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,BI e Data Warehouse com Pentaho,Transformação com ETL: Pentaho Data Integration,Engenharia de dados,16,28/06/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,BI e Data Warehouse com Pentaho,OLAP com Pentaho: construção do Data Mart,BI & visualização,16,28/06/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,BI e Data Warehouse com Pentaho,Consultas multidimensionais: MDX com Pentaho,BI & visualização,14,02/08/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,BI e Data Warehouse com Pentaho,Report Analysis com Pentaho: gerando relatórios empresariais,BI & visualização,16,02/08/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,BI e Data Warehouse com Pentaho,Dashboard com Pentaho: visualize e analise os dados,BI & visualização,14,02/08/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,BI e Data Warehouse com Pentaho; BI e Data Warehouse com SQL Server e Power BI,Business Intelligence: trabalhando com Data Warehouse,BI & visualização,12,28/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Apache Airflow; Iniciando com Engenharia de Dados,Apache Airflow: orquestrando seu primeiro pipeline de dados,Engenharia de dados,8,02/08/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Apache Airflow,Apache Airflow: extração de dados,Engenharia de dados,10,02/08/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Apache Airflow,Apache Airflow: transformação de dados com Spark,Engenharia de dados,10,02/08/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Apache Airflow,Aprofundando no Airflow: executores Local e Celery,Engenharia de dados,8,03/08/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Apache Airflow,Aprofundando no Airflow: executor Kubernetes,Engenharia de dados,8,03/08/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Data Analysis com Google Sheets,Data Analysis: Google Sheets,BI & visualização,6,27/03/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Data Analysis com Google Sheets,Data Analysis: previsões com Google Sheets,Estatística & forecast,8,27/03/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Data Analysis com Google Sheets,Data Analysis: estatística com Google Sheets,Estatística & forecast,8,27/03/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Data Analysis com Google Sheets; Data Science,Data Visualization: técnicas de visualização com Google Sheets,BI & visualização,8,27/03/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Power BI,Power BI Desktop: construindo meu primeiro dashboard,BI & visualização,8,24/03/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Power BI,Dashboard com Power BI: visualizando dados,BI & visualização,8,27/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Power BI,Power BI Desktop: tratamento de dados no Power Query,BI & visualização,8,27/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Power BI,Power BI: entendendo as fórmulas DAX,BI & visualização,10,27/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Power BI,Power BI: explorando recursos visuais,BI & visualização,8,04/05/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Estatística com R,Estatística com R: frequências e medidas,Estatística & forecast,12,27/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Estatística com R,Estatística com R: probabilidade e amostragem,Estatística & forecast,12,27/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Estatística com R,Estatística com R: testes de hipóteses,Estatística & forecast,12,27/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Estatística com R,Estatística com R: correlação e regressão,Estatística & forecast,12,27/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Estatística com R,Estatística com R: crie e compare modelos estatísticos,Estatística & forecast,8,28/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Excel VBA; Excel,Excel: domine o editor de planilhas,Excel & VBA,10,17/01/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Excel VBA; Excel,Funções com Excel: operações matemáticas e filtros,Excel & VBA,10,18/01/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Excel VBA; Excel,Excel PROCV: lógica booleana e busca por valores,Excel & VBA,12,19/01/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Excel VBA; Excel,Excel: tabelas dinâmicas e dashboards,Excel & VBA,10,20/01/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Excel VBA; Excel,Excel: simulação e análise de cenários,Excel & VBA,6,20/01/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Excel VBA; Excel,"Análise de dados: cálculos, padrões e estratégias com Excel",Excel & VBA,6,20/01/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Excel VBA; VBA,Excel: criação de macros e automatização de tarefas,Excel & VBA,12,28/03/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Excel VBA; VBA,Excel: personalizando e automatizando tarefas com VBA,Excel & VBA,8,28/03/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,VBA,Excel VBA: automatize tarefas diárias mesmo não sendo programador,Excel & VBA,8,28/03/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,VBA,Excel VBA: criando formulários para facilitar a entrada de dados nas planilhas,Excel & VBA,8,29/03/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,VBA,Excel VBA 3: criando conexão com o Outlook Application,Excel & VBA,10,29/03/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,VBA,Excel VBA 4: criando conexão com Access,Excel & VBA,10,29/03/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,SQL com MySQL Server da Oracle,SQL com MySQL: manipule e consulte dados,Bancos de dados & SQL,12,09/06/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,SQL com MySQL Server da Oracle,Consultas SQL: avançando no SQL com MySQL,Bancos de dados & SQL,14,26/06/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,SQL com MySQL Server da Oracle,Comandos DML: manipulação de dados com MySQL,Bancos de dados & SQL,10,26/06/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,SQL com MySQL Server da Oracle,Procedures SQL: executando código no MySQL,Bancos de dados & SQL,14,26/06/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,SQL com MySQL Server da Oracle,Administração do MySQL: segurança e otimização do banco,Bancos de dados & SQL,16,26/06/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Data Mesh,Data Mesh: uma abordagem distribuída para dados,Engenharia de dados,8,05/05/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Data Mesh,Data Mesh: dados como produtos,Engenharia de dados,10,05/05/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Data Mesh,Data Mesh: controle e dependências,Engenharia de dados,6,05/05/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Data Mesh,Data Mesh: infraestrutura e planos,Engenharia de dados,6,05/05/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Estatística com Python; Data Science,Estatística com Python: frequências e medidas,Estatística & forecast,10,03/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Estatística com Python; Data Science,Estatística com Python: probabilidade e amostragem,Estatística & forecast,10,03/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Estatística com Python,Estatística com Python: testes de hipóteses,Estatística & forecast,10,04/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Estatística com Python; Data Science,Data Science: testes estatísticos com Python,Estatística & forecast,6,04/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Estatística com Python,Estatística com Python: correlação e regressão,Estatística & forecast,10,04/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Estatística com Python; Data Science,Regressão linear: testando relações e prevendo resultados,Estatística & forecast,12,04/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Estatística com Python; Data Science,Regressão linear: técnicas avançadas de modelagem,Estatística & forecast,5,04/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Estatística com Python; Data Science,"Análise de experimentos: testes, mapas de cores e análises dos dados",Estatística & forecast,6,04/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Python para Data Science,Python para Data Science,Python & data science,10,16/08/2022,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Python para Data Science,Python para Data Science: linguagem e Numpy,Python & data science,12,16/09/2022,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Python para Data Science,"Python para Data Science: funções, pacotes e Pandas",Python & data science,10,29/09/2022,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Python para Data Science; Data Science,Python Pandas: tratando e analisando dados,Python & data science,12,16/01/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Python para Data Science,Data Visualization: explorando com Seaborn,Python & data science,6,31/03/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Python para Data Science,Data Science: análise de séries temporais,Estatística & forecast,6,31/03/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Python para Data Science,Corretor ortográfico em Python: aplicando técnicas de NLP,Python & data science,10,01/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,BI e Data Warehouse com SQL Server e Power BI,ETL com Integration Services: modelo de dados,Engenharia de dados,6,28/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,BI e Data Warehouse com SQL Server e Power BI,ETL com Integration Services: transformação de dados,Engenharia de dados,10,28/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,BI e Data Warehouse com SQL Server e Power BI,OLAP com SQL Server: construção do Data Warehouse,BI & visualização,10,28/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,BI e Data Warehouse com SQL Server e Power BI,Consultas multidimensionais: MDX com SQL Server,BI & visualização,10,28/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,BI e Data Warehouse com SQL Server e Power BI,Report Analysis com Power BI: gerando relatórios empresariais,BI & visualização,12,28/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Data Science,Data Science: análise e visualização de dados,Python & data science,6,03/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Data Science,Data Visualization: criação de gráficos com o Matplotlib,Python & data science,6,04/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Data Science,Data Science: análises para saúde e medicina,Python & data science,8,04/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Data Science,Data Science: visualização de dados para saúde e medicina,Python & data science,7,04/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Iniciando com Engenharia de Dados,Linux Onboarding: usando a CLI de uma forma rápida e prática,Engenharia de dados,8,09/08/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Iniciando com Engenharia de Dados,Linux Onboarding: localizando arquivos e conteúdos,Engenharia de dados,8,09/08/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Iniciando com Engenharia de Dados,Python: começando com a linguagem,Python & data science,12,08/04/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Iniciando com Engenharia de Dados,Python: avançando na linguagem,Python & data science,12,04/08/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Iniciando com Engenharia de Dados,Apache Beam: data pipeline com Python,Engenharia de dados,12,05/08/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Iniciando com Engenharia de Dados,PostgreSQL,Bancos de dados & SQL,8,08/08/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Iniciando com Engenharia de Dados,"PostgreSQL: views, subconsultas e funções",Bancos de dados & SQL,6,08/08/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Iniciando com Engenharia de Dados,Engenharia de dados: organizando dados na AWS,Engenharia de dados,8,08/08/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Administração e performance com Oracle Database,Administração do Oracle Database: criação e gerenciamento do banco,Bancos de dados & SQL,10,20/05/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Administração e performance com Oracle Database,Administração do Oracle Database: segurança e otimização do banco,Bancos de dados & SQL,14,20/05/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Administração e performance com Oracle Database,Desempenho do Oracle Database: análise do ambiente,Bancos de dados & SQL,12,20/05/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Administração e performance com Oracle Database,Desempenho do Oracle Database: otimização de consultas,Bancos de dados & SQL,14,20/05/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Engenharia de dados com Databricks,Databricks: conhecendo a ferramenta,Engenharia de dados,8,03/08/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Engenharia de dados com Databricks,Databricks: trabalhando com diversos formatos e tipos de arquivos,Engenharia de dados,8,03/08/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Engenharia de dados com Databricks,Databricks: análise de dados,Engenharia de dados,8,04/08/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Engenharia de dados com Databricks,Databricks: criando um sistema de recomendação,Engenharia de dados,10,04/08/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Engenharia de dados com Databricks,Databricks e Data Factory: criando e orquestrando pipelines na nuvem,Engenharia de dados,10,04/08/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,Engenharia de dados com Databricks,Databricks: construindo pipelines de dados com Airflow e Azure Databricks,Engenharia de dados,10,04/08/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,,Data Visualization parte 1: gráficos com uma variável,BI & visualização,5,09/06/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,,Spark: apresentando a ferramenta,Engenharia de dados,10,09/08/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,,BI com Excel: crie bancos de dados com planilhas,BI & visualização,10,25/03/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,,BI com Excel: criando um dashboard sem complicação,BI & visualização,8,25/03/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,,Scrum: agilidade em seu projeto,Gestão & agilidade,10,12/07/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,,Agilidade: promovendo a transformação ágil,Gestão & agilidade,6,14/06/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,,A Empresa Ágil: implemente o Business Agility nas organizações,Gestão & agilidade,6,15/06/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+Alura,,Ferramentas para agilidade: visão geral sobre controle de projetos e produtos,Gestão & agilidade,8,15/07/2023,https://cursos.alura.com.br/user/gabel113rocha/fullCertificate/1f3b8be78d09e41a1f482427f673326d
+DIO,Bootcamp DIO · Python e dados,Seja Protagonista Neste Bootcamp,Programação & Git,1,08/01/2024,
+DIO,Bootcamp DIO · Python e dados,Fundamentos de Lógica de Programação,Programação & Git,1,09/01/2024,
+DIO,Bootcamp DIO · Python e dados,Versionamento de Código com Git e GitHub,Programação & Git,2,12/01/2024,
+DIO,Bootcamp DIO · Python e dados,Como Entregar seu Desafio de Projeto,Programação & Git,1,13/01/2024,
+DIO,Bootcamp DIO · Python e dados,Ambiente de Desenvolvimento e Primeiros Passos com Python,Python & data science,1,15/01/2024,
+DIO,Bootcamp DIO · Python e dados,Conhecendo a Linguagem de Programação Python,Python & data science,2,16/01/2024,
+DIO,Bootcamp DIO · Python e dados,Tipos de Operadores com Python,Python & data science,2,17/01/2024,
+DIO,Bootcamp DIO · Python e dados,Estruturas Condicionais e de Repetição em Python,Python & data science,2,29/01/2024,
+DIO,Bootcamp DIO · Python e dados,Fundamentos de Business Intelligence (BI),BI & visualização,2,29/01/2024,
+DIO,Bootcamp DIO · Python e dados,Contribuindo em um Projeto Open Source no GitHub (projeto),Programação & Git,1,31/01/2024,
+DIO,Bootcamp DIO · Python e dados,Manipulando Strings com Python,Python & data science,2,01/02/2024,
+DIO,Bootcamp DIO · Python e dados,Criando um Sistema Bancário com Python (projeto),Python & data science,1,01/02/2024,
+DIO,Bootcamp DIO · Python e dados,Trabalhando com Listas em Python,Python & data science,1,02/02/2024,
+DIO,Bootcamp DIO · Python e dados,Conhecendo Tuplas em Python,Python & data science,1,02/02/2024,
+DIO,Bootcamp DIO · Python e dados,Aprendendo a Utilizar Dicionários em Python,Python & data science,1,02/02/2024,
+DIO,Bootcamp DIO · Python e dados,Explorando Conjuntos em Python,Python & data science,1,02/02/2024,
+DIO,Bootcamp DIO · Python e dados,Otimizando o Sistema Bancário com Funções Python (projeto),Python & data science,1,08/02/2024,
+DIO,Bootcamp DIO · Python e dados,Introdução a Banco de Dados,Bancos de dados & SQL,3,25/02/2024,
+DIO,Bootcamp DIO · Python e dados,Sistemas de Gerenciamento de Banco de Dados,Bancos de dados & SQL,2,27/02/2024,
+FM2S,,Fundamentos da Gestão Logística,Supply chain & operações,,,https://ead.fm2s.com.br/verify/295e3d4651bbedf4fe946aecc40779550107162e
+FM2S,,Auditor Interno ISO 9001:2015,Qualidade & Lean,,,https://ead.fm2s.com.br/verify/dcebb38b8a04f32fa925309c299b08a395e20f48
+FM2S,,Certificação Lean Seis Sigma White Belt,Qualidade & Lean,,,https://ead.fm2s.com.br/verify/257759616078eda4fb9f31a914e8177c387ccdce
+FM2S,,Certificação Lean Seis Sigma Yellow Belt,Qualidade & Lean,,,https://ead.fm2s.com.br/verify/a791b88efe4efcaaabb3409443ca5ecfb10a688d
+Udemy,,Analista de Logística,Supply chain & operações,28.5,11/02/2026,https://www.udemy.com/certificate/UC-f7261190-96ff-446b-8865-3111e6cb19e2/
+EY,,Welcome to Consulting: My Consulting Career,Integração & conduta,,24/08/2026,,não
+EY,,Welcome to Consulting: Going to Market in Consulting,Integração & conduta,,25/08/2026,,não
+EY,,Welcome to Consulting: Managing Quality & Risk in the Engagement Management Lifecycle,Integração & conduta,,25/08/2026,,não
+EY,,Welcome to Consulting: Consulting Service Quality Program,Integração & conduta,,25/08/2026,,não
+EY,,Global Code of Conduct for New Joiners,Integração & conduta,,26/08/2026,,não
+EY,,Data Protection Fundamentals,Integração & conduta,,26/08/2026,,não
+EY,,Financial Crime: Staff – Senior Fundamentals,Integração & conduta,,26/08/2026,,não
+EY,,Information Security for New Joiners,Integração & conduta,,26/08/2026,,não
+EY,,Design Thinking,Gestão & agilidade,,27/08/2026,,
+EY,,Creating Data Visualizations,BI & visualização,,27/08/2026,,
+EY,,Introduction to Change Management,Gestão & agilidade,,27/08/2026,,
+EY,,Cybersecurity: Introduction,Integração & conduta,,28/08/2026,,não
+EY,,Situações de Emergência,Integração & conduta,,28/08/2026,,não
+EY,,AI Now 2.0: Use GenAI as your Thought Partner (módulo 1),IA aplicada,,28/08/2026,,
+EY,,AI Now 2.0: Use GenAI as your Thought Partner (módulo 2),IA aplicada,,28/08/2026,,
+EY,,AI Now 3.0: Agents of Change,IA aplicada,,31/08/2026,,
+EY,,AI Skills for Consulting: EY.ai Value Blueprints,IA aplicada,,31/08/2026,,
+EY,,Professional Posture,Integração & conduta,,31/08/2026,,não
+EY,,Upstanding Interventions,Integração & conduta,,31/08/2026,,não
+EY,,Supply Chain Operations Transformation,Supply chain & operações,,31/08/2026,,
+EY,,Copilot Flight School,IA aplicada,,01/09/2026,,
+EY,,Introduction to All in Transformation,Gestão & agilidade,,14/09/2026,,
+EY,,Introduction to Inclusive Leadership for All,Gestão & agilidade,,15/09/2026,,
+EY,,Inclusive Leadership for All – Podcast 1: The Value of Difference,Gestão & agilidade,,15/09/2026,,não
+EY,,Inclusive Leadership for All – Course 1: The Value of Difference,Gestão & agilidade,,15/09/2026,,
+EY,,Inclusive Leadership for All – Podcast 2: Lead and Team with Agility,Gestão & agilidade,,15/09/2026,,não
+EY,,Inclusive Leadership for All – Course 2: Lead and Team with Agility,Gestão & agilidade,,15/09/2026,,
+EY,,Inclusive Leadership for All – Podcast 3: Building a Sense of Belonging for All,Gestão & agilidade,,15/09/2026,,não
+EY,,Inclusive Leadership for All – Course 3: Building a Sense of Belonging for All,Gestão & agilidade,,15/09/2026,,
+EY,,Supply Chain Overview,Supply chain & operações,,16/09/2026,,
+EY,,Introduction to Logistics: Digital Fulfilment,Supply chain & operações,,18/09/2026,,
+EY,,Supply Chain Cost Reduction Focus Areas,Supply chain & operações,,18/09/2026,,
+EY,,Supply Chain Resiliency,Supply chain & operações,,21/09/2026,,
+EY,,Supply Chain Trends and SCOR Model Deeper Dive,Supply chain & operações,,21/09/2026,,
+EY,,Supply Chain Performance Management and Analytics,Supply chain & operações,,22/09/2026,,
+EY,,Understanding the Manufacturing Environment,Supply chain & operações,,05/10/2026,,
+EY,,"Introduction to Logistics: Warehouse Design, Processes and KPIs",Supply chain & operações,,05/10/2026,,
+EY,,Introduction to Lean,Qualidade & Lean,,05/10/2026,,
+EY,,Introduction to Enterprise Asset Management (EAM),Supply chain & operações,,05/10/2026,,
+EY,,Sales and Operations Planning,Supply chain & operações,,05/10/2026,,
+EY,,Introduction to Logistics: Network Design,Supply chain & operações,,06/10/2026,,
+EY,,Core Data Analytics with Microsoft Excel: Cleansing,Excel & VBA,,06/10/2026,,
+EY,,Core Data Analytics with Microsoft Excel: Interpreting,Excel & VBA,,07/10/2026,,
+EY,,Introduction to Circular Economy,Supply chain & operações,,09/10/2026,,
+EY,,Supply Chain Value Chain Tradeoffs,Supply chain & operações,,09/10/2026,,
+EY,,Supply Chain Cost Reduction Overview,Supply chain & operações,,09/10/2026,,
+EY,,Independence for New Joiners,Integração & conduta,,14/10/2026,,não
+EY,,Core Data Analytics with Microsoft Excel: Reporting,Excel & VBA,,16/10/2026,,
+EY,,Core Data Analytics with Microsoft Excel: Ingesting,Excel & VBA,,22/10/2026,,
+EY,,Core Data Analytics with Microsoft Excel: Validating and Transforming,Excel & VBA,,22/10/2026,,
+EY,,Core Data Analytics with Microsoft Excel: Merging and Appending,Excel & VBA,,22/10/2026,,
+EY,,Core Data Analytics with Microsoft Power BI: Cleansing,BI & visualização,,23/10/2026,,
+EY,,Core Data Analytics with Microsoft Power BI: Ingesting,BI & visualização,,23/10/2026,,
+EY,,Core Data Analytics with Microsoft Power BI: Interpreting,BI & visualização,,23/10/2026,,
+EY,,Core Data Analytics with Microsoft Power BI: Merging and Appending,BI & visualização,,23/10/2026,,
+EY,,Core Data Analytics with Microsoft Power BI: Reporting,BI & visualização,,23/10/2026,,
+EY,,Data and Analytics Delivery Process (US),Integração & conduta,,23/10/2026,,não
+Udemy,,Introduction to Cloud Computing,Engenharia de dados,1,28/08/2026,https://www.udemy.com/certificate/UC-6b246240-02bf-4d70-b4f4-307e548abfb1/,
+Udemy,,Project Management Essentials: what every PM needs to know,Gestão & agilidade,2,29/08/2026,https://www.udemy.com/certificate/UC-fb47ab93-f7d8-42be-a37f-117415b977d4/,
+Udemy,,Intro to Copilot in Excel,IA aplicada,1.5,31/08/2026,https://www.udemy.com/certificate/UC-c7483ecd-31ca-4baa-ac73-742afcce4093/,
+Udemy,,Microsoft Copilot for Operations,IA aplicada,3.5,01/09/2026,https://www.udemy.com/certificate/UC-f7c4d313-ca61-4bcc-b718-c6240a84f49b/,
+Udemy,,Microsoft Copilot for Excel: AI-Powered Data Analysis,IA aplicada,2,02/09/2026,https://www.udemy.com/certificate/UC-475be388-157d-440b-9003-f93f57d4a3ac/,
+Udemy,,Introduction to Business Process Modeling,Gestão & agilidade,1.5,18/09/2026,https://www.udemy.com/certificate/UC-db8b2640-fb4a-4d14-a8cb-e2f5bf81c017/,

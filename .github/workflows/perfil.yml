@@ -1,0 +1,50 @@
+name: Atualizar perfil
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # todo dia às 03:17 de Brasília
+  push:
+    branches: [main]
+    paths:
+      - "dados/**"
+      - "scripts/**"
+      - "README.md"
+      - ".github/workflows/perfil.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: perfil
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Gerar imagens, contagem regressiva e certificados
+        run: python3 scripts/gerar_perfil.py
+
+      - name: Gerar a cobrinha das contribuições
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/cobrinha-claro.svg?color_snake=#2f4fd0&color_dots=#e7ecf6,#c7d2fe,#93a5f5,#5b7cfa,#2f4fd0
+            assets/cobrinha-escuro.svg?palette=github-dark&color_snake=#2dd4bf&color_dots=#15213a,#1e3a8a,#2f4fd0,#6b8cff,#2dd4bf
+
+      - name: Salvar o que mudou
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A assets README.md
+          if git diff --cached --quiet; then
+            echo "Nada mudou hoje."
+          else
+            git commit -m "perfil: atualização automática"
+            git push
+          fi

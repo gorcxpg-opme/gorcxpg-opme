@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 452" width="1200" height="452" role="img" aria-label="Supply OPME — números do sistema e módulos">
+<title>Supply OPME — números do sistema e módulos</title>
+<style>
+.s{font-family:'Segoe UI','Inter',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif} .m{font-family:'Cascadia Code','JetBrains Mono',ui-monospace,'SF Mono',Consolas,'Liberation Mono',monospace}
+@keyframes entra{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+.entra{animation:entra .8s cubic-bezier(.2,.7,.2,1) both}
+@keyframes fluxo{to{stroke-dashoffset:-64}}
+.fluxo{stroke-dasharray:6 10;animation:fluxo 2.2s linear infinite}
+@keyframes pisca{50%{opacity:0}}
+.pisca{animation:pisca 1.05s steps(1) infinite}
+@keyframes flutua{50%{transform:translateY(-7px)}}
+.flutua{animation:flutua 4.5s ease-in-out infinite}
+@keyframes pulsa{0%{opacity:.6;transform:scale(1)}100%{opacity:0;transform:scale(2.6)}}
+.pulsa{transform-box:fill-box;transform-origin:center;animation:pulsa 2.2s ease-out infinite}
+@keyframes onda{0%{opacity:.7;transform:scale(1)}100%{opacity:0;transform:scale(1.55)}}
+.onda{transform-box:fill-box;transform-origin:center;animation:onda 2.8s ease-out infinite}
+@keyframes respira{50%{opacity:.45}}
+.respira{animation:respira 2.4s ease-in-out infinite}
+@keyframes varre{0%,8%{transform:translateY(0)}92%,100%{transform:translateY(224px)}}.varre{animation:varre 6s cubic-bezier(.6,0,.4,1) infinite alternate}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+<pattern id="grade" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#e7ecf6" stroke-width="1"/></pattern>
+<linearGradient id="gAzulVerde" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#2f4fd0"/><stop offset="1" stop-color="#0f9488"/></linearGradient>
+<radialGradient id="gBrilho" cx="0.82" cy="0.35" r="0.6"><stop offset="0" stop-color="#2f4fd0" stop-opacity="0.10"/><stop offset="1" stop-color="#2f4fd0" stop-opacity="0"/></radialGradient>
+<clipPath id="cartao"><rect width="1200" height="452" rx="20"/></clipPath>
+
+</defs>
+<g clip-path="url(#cartao)">
+<rect width="1200" height="452" fill="#f7f9fd"/>
+<rect width="1200" height="452" fill="url(#grade)" opacity=".55"/>
+<rect width="1200" height="452" fill="url(#gBrilho)"/>
+<text x="40" y="54" class="m" font-size="14" fill="#0f9488" letter-spacing="1.5">SUPPLY OPME · NÚMEROS DO SISTEMA</text>
+<text x="600" y="54" class="m" font-size="14" fill="#0f9488" letter-spacing="1.5">MÓDULOS · O QUE O GESTOR PERGUNTA</text>
+<g class="entra" style="animation-delay:0.10s"><rect x="40" y="76" width="252" height="130" rx="14" fill="#ffffff" stroke="#d8e0ee"/><rect x="40" y="98" width="3" height="40" rx="1.5" fill="#2f4fd0"/><text x="60" y="138" class="s" font-size="46" font-weight="800" fill="#0f172a">775</text><text x="60" y="166" class="s" font-size="15" fill="#475569">testes automatizados (banco,</text><text x="60" y="185" class="s" font-size="15" fill="#475569">navegador e backup)</text></g>
+<g class="entra" style="animation-delay:0.22s"><rect x="308" y="76" width="252" height="130" rx="14" fill="#ffffff" stroke="#d8e0ee"/><rect x="308" y="98" width="3" height="40" rx="1.5" fill="#2f4fd0"/><text x="328" y="138" class="s" font-size="46" font-weight="800" fill="#0f172a">13</text><text x="328" y="166" class="s" font-size="15" fill="#475569">migrações de banco</text><text x="328" y="185" class="s" font-size="15" fill="#475569">versionadas</text></g>
+<g class="entra" style="animation-delay:0.34s"><rect x="40" y="222" width="252" height="130" rx="14" fill="#ffffff" stroke="#d8e0ee"/><rect x="40" y="244" width="3" height="40" rx="1.5" fill="#2f4fd0"/><text x="60" y="284" class="s" font-size="46" font-weight="800" fill="#0f172a">20 mi</text><text x="60" y="312" class="s" font-size="15" fill="#475569">linhas no teste de carga do</text><text x="60" y="331" class="s" font-size="15" fill="#475569">backup</text></g>
+<g class="entra" style="animation-delay:0.46s"><rect x="308" y="222" width="252" height="130" rx="14" fill="#ffffff" stroke="#d8e0ee"/><rect x="308" y="244" width="3" height="40" rx="1.5" fill="#2f4fd0"/><text x="328" y="284" class="s" font-size="46" font-weight="800" fill="#0f172a">1×/dia</text><text x="328" y="312" class="s" font-size="15" fill="#475569">backup cifrado com prova de</text><text x="328" y="331" class="s" font-size="15" fill="#475569">restauração</text></g>
+<g class="entra" style="animation-delay:0.20s"><rect x="600" y="76" width="560" height="46" rx="11" fill="#ffffff" stroke="#d8e0ee"/><circle cx="622" cy="99.0" r="5" fill="#15935b"/><circle class="pulsa" cx="622" cy="99.0" r="5" fill="#15935b"/><text x="640" y="105" class="s" font-size="16.5" font-weight="700" fill="#0f172a">Inventory Intelligence</text><text x="846" y="105" class="s" font-size="15" fill="#475569">Como está meu estoque?</text><rect x="1093.3" y="87" width="54.7" height="24" rx="12" fill="none" stroke="#15935b"/><text x="1120.7" y="103.5" text-anchor="middle" class="s" font-size="13" fill="#15935b">no ar</text></g>
+<g class="entra" style="animation-delay:0.32s"><rect x="600" y="132" width="560" height="46" rx="11" fill="#ffffff" stroke="#d8e0ee"/><circle cx="622" cy="155.0" r="5" fill="#15935b"/><circle class="pulsa" cx="622" cy="155.0" r="5" fill="#15935b"/><text x="640" y="161" class="s" font-size="17" font-weight="700" fill="#0f172a">Consignação</text><text x="846" y="161" class="s" font-size="15" fill="#475569">Onde está meu capital?</text><rect x="1093.3" y="143" width="54.7" height="24" rx="12" fill="none" stroke="#15935b"/><text x="1120.7" y="159.5" text-anchor="middle" class="s" font-size="13" fill="#15935b">no ar</text></g>
+<g class="entra" style="animation-delay:0.44s"><rect x="600" y="188" width="560" height="46" rx="11" fill="#ffffff" stroke="#d8e0ee"/><circle cx="622" cy="211.0" r="5" fill="#15935b"/><circle class="pulsa" cx="622" cy="211.0" r="5" fill="#15935b"/><text x="640" y="217" class="s" font-size="17" font-weight="700" fill="#0f172a">Management Cockpit</text><text x="846" y="217" class="s" font-size="15" fill="#475569">O que fazer agora?</text><rect x="1093.3" y="199" width="54.7" height="24" rx="12" fill="none" stroke="#15935b"/><text x="1120.7" y="215.5" text-anchor="middle" class="s" font-size="13" fill="#15935b">no ar</text></g>
+<g class="entra" style="animation-delay:0.56s"><rect x="600" y="244" width="560" height="46" rx="11" fill="#ffffff" stroke="#d8e0ee"/><circle cx="622" cy="267.0" r="5" fill="#d97706"/><text x="640" y="273" class="s" font-size="17" font-weight="700" fill="#0f172a">Demand &amp; Planning</text><text x="846" y="273" class="s" font-size="13.5" fill="#475569">O que comprar e quando?</text><rect x="1035.1" y="255" width="112.9" height="24" rx="12" fill="none" stroke="#d97706"/><text x="1091.5" y="271.5" text-anchor="middle" class="s" font-size="13" fill="#d97706">em construção</text></g>
+<g class="entra" style="animation-delay:0.68s"><rect x="600" y="300" width="560" height="46" rx="11" fill="#ffffff" stroke="#d8e0ee"/><circle cx="622" cy="323.0" r="5" fill="#94a3b8"/><text x="640" y="329" class="s" font-size="17" font-weight="700" fill="#0f172a">Supplier Intelligence</text><text x="846" y="329" class="s" font-size="15" fill="#475569">Quem está atrasando?</text><rect x="1066.3" y="311" width="81.7" height="24" rx="12" fill="none" stroke="#94a3b8"/><text x="1107.1" y="327.5" text-anchor="middle" class="s" font-size="13" fill="#94a3b8">planejado</text></g>
+<rect class="varre" x="600" y="76" width="560" height="46" rx="11" fill="url(#gAzulVerde)" opacity=".10"/>
+<text x="40" y="416" class="m" font-size="13" fill="#94a3b8" letter-spacing="1.2">TAMBÉM NO SISTEMA</text>
+<g class="entra" style="animation-delay:0.80s"><rect x="236.0" y="392" width="227.1" height="36" rx="18" fill="#eef2fa" stroke="#d8e0ee"/><text x="251.0" y="415" class="s" font-size="15" fill="#0f172a">NF-e · DANFE · recebimento</text></g>
+<g class="entra" style="animation-delay:0.90s"><rect x="473.1" y="392" width="145.8" height="36" rx="18" fill="#eef2fa" stroke="#d8e0ee"/><text x="488.1" y="415" class="s" font-size="15" fill="#0f172a">Almoxarifado 3D</text></g>
+<g class="entra" style="animation-delay:1.00s"><rect x="628.9" y="392" width="150.3" height="36" rx="18" fill="#eef2fa" stroke="#d8e0ee"/><text x="643.9" y="415" class="s" font-size="15" fill="#0f172a">Assistente de IA</text></g>
+<g class="entra" style="animation-delay:1.10s"><rect x="789.2" y="392" width="198.9" height="36" rx="18" fill="#eef2fa" stroke="#d8e0ee"/><text x="804.2" y="415" class="s" font-size="15" fill="#0f172a">Mapa de fluxos do Brasil</text></g>
+</g>
+<rect x=".5" y=".5" width="1199" height="451" rx="20" fill="none" stroke="#d8e0ee"/>
+</svg>
