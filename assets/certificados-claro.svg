@@ -30,7 +30,7 @@
 <rect width="1200" height="560" fill="#f7f9fd"/>
 <rect width="1200" height="560" fill="url(#grade)" opacity=".55"/>
 <rect width="1200" height="560" fill="url(#gBrilho)"/>
-<text x="40" y="54" class="m" font-size="14" fill="#0f9488" letter-spacing="1.5">CERTIFICADOS · ATUALIZADO EM 05/11/2026</text>
+<text x="40" y="54" class="m" font-size="14" fill="#0f9488" letter-spacing="1.5">CERTIFICADOS · ATUALIZADO EM 06/11/2026</text>
 <g class="entra" style="animation-delay:0.00s"><rect x="40" y="78" width="182" height="114" rx="14" fill="#ffffff" stroke="#d8e0ee"/><text x="58" y="134" class="s" font-size="42" font-weight="800" fill="#0f172a">167</text><text x="58" y="164" class="s" font-size="15" fill="#475569">cursos concluídos</text></g>
 <g class="entra" style="animation-delay:0.08s"><rect x="236" y="78" width="182" height="114" rx="14" fill="#ffffff" stroke="#d8e0ee"/><text x="254" y="134" class="s" font-size="42" font-weight="800" fill="#0f172a">999</text><text x="254" y="164" class="s" font-size="15" fill="#475569">horas registradas</text></g>
 <g class="entra" style="animation-delay:0.16s"><rect x="40" y="206" width="182" height="114" rx="14" fill="#ffffff" stroke="#d8e0ee"/><text x="58" y="262" class="s" font-size="42" font-weight="800" fill="#0f172a">18</text><text x="58" y="292" class="s" font-size="15" fill="#475569">formações e trilhas</text></g>
